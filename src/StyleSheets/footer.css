@@ -1,0 +1,13 @@
+.myFooterLink {
+    color: #fff;
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    transition: transform .5s;
+}
+
+.myFooterLink:hover {
+    color: green;
+    transition: 200ms ease-in;
+    transform: scale(1.1);
+}

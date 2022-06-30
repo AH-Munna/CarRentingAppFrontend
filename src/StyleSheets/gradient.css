@@ -1,0 +1,33 @@
+.myBG {
+    /* background-color: red; */
+    /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom left, rgba(173, 173, 173, 0.233), rgba(204, 204, 204, 0.486));
+}
+
+.myBGT {
+    background-image: linear-gradient(to left, #c00fd788, #c00fd7);
+    color: white;
+}
+
+/* .myBGT h3 {
+    text-shadow: 2px 2px #47bbc4;
+} */
+
+.myBtnBG {
+    background-color: red;
+    /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, #75242434, #8123238a);
+}
+
+.myBtnBG:hover {
+    color: white;
+    background-image: linear-gradient(to bottom left, #0fd7a571, #24c2a8);
+}
+
+.myModalFooterBG {
+    background-image: linear-gradient(to right, rgba(164, 201, 206, 0.377), rgba(125, 179, 176, 0.603));
+}
+
+.warningColor {
+    color: #8bff9f;
+}
